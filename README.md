@@ -22,6 +22,7 @@
 
 ## 🧰 Tech Stack (AI / R&D)
 
+
 <p align="center">
   <!-- Primary stack -->
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,git,github,linux,docker" />
@@ -53,7 +54,7 @@
         <a href="https://github.com/kirmanioussema12/Human-Activity-Recognition-Wisdm-Dataset">View Repo →</a>
       </p>
     </td>
-
+---
     <td width="33%" valign="top">
       <h3 align="center">🧍 HAR (UCI HAR)</h3>
       <p align="center">Human activity recognition pipeline on UCI HAR dataset.</p>
@@ -78,7 +79,7 @@
       </p>
     </td>
   </tr>
-
+---
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">🧠 Deep Learning</h3>
