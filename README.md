@@ -44,8 +44,6 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-blue?style=flat" alt="LangGraph" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-purple?style=flat" alt="Agentic AI" />
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-orange?style=flat&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
@@ -137,7 +135,7 @@
 
 
 
-## 📈 Contribution / Activity Graph (like your video)
+## 📈 Contribution / Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirmanioussema12&hide_border=true&area=true" />
@@ -162,17 +160,6 @@
 - NLP work: https://github.com/kirmanioussema12/NLP  
 - NER project: https://github.com/kirmanioussema12/NER  
 - Recommendation system: https://github.com/kirmanioussema12/Systeme-de-recommendation  
-
----
-
-
-
-
-## 📌 Quick Links
-
-- **NLP work:** https://github.com/kirmanioussema12/NLP  
-- **NER project:** https://github.com/kirmanioussema12/NER  
-- **Recommendation system:** https://github.com/kirmanioussema12/Systeme-de-recommendation  
 
 ---
 
