@@ -20,7 +20,6 @@
 
 ---
 
----
 
 ## ⚡ About Me
 
@@ -30,32 +29,39 @@
 - Open to **R&D collaborations** and research-driven engineering roles
 
 ---
-
 ## 🧰 Tech Stack (AI / R&D)
 
-
 <p align="center">
-  <!-- Primary AI / ML stack -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,jupyter,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,keras,langchain&perline=7" />
 </p>
 
 <p align="center">
-  <!-- Platforms + backend -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres" />
+  <img src="https://skillicons.dev/icons?i=huggingface,llama,numpy,pandas,matplotlib,github,git,docker,jupyter&perline=9" />
 </p>
 
 <p align="center">
-  <!-- AI ecosystem tools -->
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-purple?style=flat" />
-  <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-orange?style=flat&logo=n8n&logoColor=white" />
+  <!-- Cloud + orchestration + agent frameworks -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres&perline=6" />
+  <br><br>
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-00A3E0?style=for-the-badge&logo=graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-Multi%20Agent-orange?style=for-the-badge&logo=data:image/svg+xml;base64,...(optional if no good icon)" /> <!-- CrewAI has no skillicon yet -->
+  <img src="https://img.shields.io/badge/AutoGen-Multi%20Agent-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-R%26D%20%7C%20Applied%20ML%20%7C%20NLP%20%7C%20CV%20%7C%20Agentic%20AI-2b2b2b?style=flat" />
+  <!-- Vector DBs & modern agentic / applied AI tools -->
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20DB-7B61FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weaviate-Vector%20DB-1A2B4C?style=for-the-badge&logo=weaviate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chroma-Embeddings-DB3A34?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-7C3AED?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/LlamaIndex-Data%20Framework-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-R&D%20%E2%80%A2%20Applied%20ML%20%E2%80%A2%20NLP%20%E2%80%A2%20CV%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Autonomous%20Systems-2b2b2b?style=for-the-badge&logo=ai&logoColor=cyan" />
+</p>
 ---
 
 ## 🚀 Featured Work
