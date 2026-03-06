@@ -32,11 +32,11 @@
 ## 🧰 Tech Stack (AI / R&D)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,jupyter,git,github,docker&perline=14" alt="Primary AI/ML stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,jupyter,git,github,docker&perline=16" alt="Primary AI/ML stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres&perline=8" alt="Platforms & backend" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres&perline=6" alt="Platforms & backend" />
 </p>
 
 <p align="center">
