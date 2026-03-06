@@ -29,38 +29,19 @@
 - Open to **R&D collaborations** and research-driven engineering roles
 
 ---
-## 🧰 Tech Stack (AI / R&D)
+## 🧰 AI / R&D Tech Stack 2026
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,keras,langchain&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=huggingface,llama,numpy,pandas,matplotlib,github,git,docker,jupyter&perline=9" />
-</p>
-
-<p align="center">
-  <!-- Cloud + orchestration + agent frameworks -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,huggingface,langchain,llama,numpy,pandas,aws,gcp,fastapi,docker,github,git,jupyter&perline=16" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres&perline=1" /> <!-- tiny postgres if you want to keep it -->
   <br><br>
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-00A3E0?style=for-the-badge&logo=graph&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-Multi%20Agent-orange?style=for-the-badge&logo=data:image/svg+xml;base64,...(optional if no good icon)" /> <!-- CrewAI has no skillicon yet -->
-  <img src="https://img.shields.io/badge/AutoGen-Multi%20Agent-blue?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <!-- Vector DBs & modern agentic / applied AI tools -->
-  <img src="https://img.shields.io/badge/Pinecone-Vector%20DB-7B61FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weaviate-Vector%20DB-1A2B4C?style=for-the-badge&logo=weaviate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chroma-Embeddings-DB3A34?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-7C3AED?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph • CrewAI • AutoGen • LlamaIndex • n8n-Agentic%20%26%20Automation-181818?style=for-the-badge&logoColor=cyan" />
   <br>
-  <img src="https://img.shields.io/badge/LlamaIndex-Data%20Framework-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone • Weaviate • Chroma • Qdrant-Vector%20Databases-4B0082?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-R&D%20%E2%80%A2%20Applied%20ML%20%E2%80%A2%20NLP%20%E2%80%A2%20CV%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Autonomous%20Systems-2b2b2b?style=for-the-badge&logo=ai&logoColor=cyan" />
+  <strong>Focus:</strong> R&D • Applied ML • NLP • Computer Vision • Agentic AI • Autonomous Systems
 </p>
 ---
 
