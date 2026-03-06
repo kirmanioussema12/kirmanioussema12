@@ -20,21 +20,40 @@
 
 ---
 
+---
+
+## ⚡ About Me
+
+- **Data Scientist / R&D Engineer (ML/NLP/DL)**
+- Interested in **research-driven engineering**, reproducible experiments, and applied systems
+- Focus areas: **HAR**, **NLP**, **Computer Vision**, **Predictive Modeling**
+- Open to **R&D collaborations** and research-driven engineering roles
+
+---
+
 ## 🧰 Tech Stack (AI / R&D)
 
 
 <p align="center">
-  <!-- Primary stack -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,git,github,langchain,docker" />
+  <!-- Primary AI / ML stack -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,jupyter,git,github,docker" />
 </p>
 
 <p align="center">
-  <!-- Platforms + MLOps-ish tools -->
+  <!-- Platforms + backend -->
   <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-R%26D%20%7C%20Applied%20ML%20%7C%20NLP%20%7C%20CV-2b2b2b?style=flat" />
+  <!-- AI ecosystem tools -->
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-purple?style=flat" />
+  <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-orange?style=flat&logo=n8n&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-R%26D%20%7C%20Applied%20ML%20%7C%20NLP%20%7C%20CV%20%7C%20Agentic%20AI-2b2b2b?style=flat" />
 </p>
 
 ---
@@ -262,58 +281,11 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirmanioussema12&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirmanioussema12&layout=compact&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kirmanioussema12&hide_border=true" />
-</p>
 
----
 
-## 📌 Quick Links
-- NLP work: https://github.com/kirmanioussema12/NLP  
-- NER project: https://github.com/kirmanioussema12/NER  
-- Recommendation system: https://github.com/kirmanioussema12/Systeme-de-recommendation  
 
----
-
-<p align="center">
-  <i>Open to R&amp;D collaborations (ML/NLP/CV) and research-driven engineering roles.</i>
-</p>  
-Can you enhance more this readme code and make it more responsive and with hover effects and lightning effects
-
----
-
-## ⚡ About Me
-
-- **AI Engineer / R&D Engineer (ML/NLP/DL)**
-- Interested in **research-driven engineering**, reproducible experiments, and applied systems
-- Focus areas: **HAR**, **NLP**, **Computer Vision**, **Predictive Modeling**
-- Open to **R&D collaborations** and research-driven engineering roles
-
----
-
-## 🧰 Tech Stack (AI / R&D)
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,git,github,linux,docker" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres" />
-
-<br/><br/>
-
-<!-- Neon-ish focus pill -->
-<img src="https://img.shields.io/badge/Focus-R%26D%20%7C%20Applied%20ML%20%7C%20NLP%20%7C%20CV-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
----
 
 ## 🚀 Featured Work (Hover-style cards)
 
