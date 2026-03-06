@@ -4,7 +4,7 @@
 
 <h1 align="center">Oussema Kirmani</h1>
 <p align="center">
-  <b>AI Engineer • R&D Engineer (ML/NLP/DL)</b><br/>
+  <b>Data Scientist • R&D Engineer (ML/NLP/DL)</b><br/>
   Building practical AI systems + research prototypes (HAR • NLP • CV • Predictive Modeling)
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- Primary stack -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,git,github,langchain,docker" />
 </p>
 
 <p align="center">
@@ -171,26 +171,6 @@
   <img src="https://komarev.com/ghpvc/?username=kirmanioussema12&style=flat&label=Profile%20views" />
 </p>
 
----
-
-## 🧰 Tech Stack (AI / R&D)
-
-
-<p align="center">
-  <!-- Primary stack -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,git,github,linux,docker" />
-</p>
-
-<p align="center">
-  <!-- Platforms + MLOps-ish tools -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-R%26D%20%7C%20Applied%20ML%20%7C%20NLP%20%7C%20CV-2b2b2b?style=flat" />
-</p>
-
----
 
 ## 🚀 Featured Work
 
