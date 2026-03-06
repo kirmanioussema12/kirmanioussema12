@@ -32,7 +32,7 @@
 ## 🧰 Tech Stack (AI / R&D)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,jupyter,git,github,docker&perline=10" alt="Primary AI/ML stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,jupyter,git,github,docker&perline=14" alt="Primary AI/ML stack" />
 </p>
 
 <p align="center">
