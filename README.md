@@ -69,7 +69,7 @@
         <a href="https://github.com/kirmanioussema12/Human-Activity-Recognition-Wisdm-Dataset">View Repo →</a>
       </p>
     </td>
----
+
     <td width="33%" valign="top">
       <h3 align="center">🧍 HAR (UCI HAR)</h3>
       <p align="center">Human activity recognition pipeline on UCI HAR dataset.</p>
@@ -81,7 +81,7 @@
         <a href="https://github.com/kirmanioussema12/Human-Activity-Recognition-UCI-HAR-Dataset">View Repo →</a>
       </p>
     </td>
----
+
     <td width="33%" valign="top">
       <h3 align="center">🦴 HAR (NTU RGB+D 60 Skeleton)</h3>
       <p align="center">Skeleton-based activity recognition experiments.</p>
@@ -94,7 +94,7 @@
       </p>
     </td>
   </tr>
----
+
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">🧠 Deep Learning</h3>
@@ -107,7 +107,7 @@
         <a href="https://github.com/kirmanioussema12/Deep-Learning">View Repo →</a>
       </p>
     </td>
----
+
     <td width="33%" valign="top">
       <h3 align="center">🧬 Medical Disease Classification</h3>
       <p align="center">ML/DL classification workflow for medical data.</p>
@@ -119,7 +119,7 @@
         <a href="https://github.com/kirmanioussema12/Medical-Disease-Classification">View Repo →</a>
       </p>
     </td>
----
+
     <td width="33%" valign="top">
       <h3 align="center">🌾 Predictive Modeling (Agriculture)</h3>
       <p align="center">Predictive modeling + feature insights for agriculture data.</p>
