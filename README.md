@@ -29,19 +29,28 @@
 - Open to **R&D collaborations** and research-driven engineering roles
 
 ---
-## 🧰 AI / R&D Tech Stack 2026
+## 🧰 Tech Stack (AI / R&D)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,huggingface,langchain,llama,numpy,pandas,aws,gcp,fastapi,docker,github,git,jupyter&perline=16" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres&perline=1" /> <!-- tiny postgres if you want to keep it -->
-  <br><br>
-  <img src="https://img.shields.io/badge/LangGraph • CrewAI • AutoGen • LlamaIndex • n8n-Agentic%20%26%20Automation-181818?style=for-the-badge&logoColor=cyan" />
-  <br>
-  <img src="https://img.shields.io/badge/Pinecone • Weaviate • Chroma • Qdrant-Vector%20Databases-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,jupyter,git,github,docker&perline=10" alt="Primary AI/ML stack" />
 </p>
 
 <p align="center">
-  <strong>Focus:</strong> R&D • Applied ML • NLP • Computer Vision • Agentic AI • Autonomous Systems
+  <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres&perline=8" alt="Platforms & backend" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white" alt="LangChain" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-blue?style=flat" alt="LangGraph" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-purple?style=flat" alt="Agentic AI" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-orange?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-R&D%20%7C%20Applied%20ML%20%7C%20NLP%20%7C%20CV%20%7C%20Agentic%20AI-2b2b2b?style=flat&logo=brain&logoColor=cyan" alt="Focus areas" />
 </p>
 ---
 
