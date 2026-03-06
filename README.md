@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-R&D%20%7C%20Applied%20ML%20%7C%20NLP%20%7C%20CV%20%7C%20Agentic%20AI-2b2b2b?style=flat&logo=brain&logoColor=cyan" alt="Focus areas" />
 </p>
----
+
 
 ## 🚀 Featured Work
 
@@ -128,7 +128,7 @@
         <img src="https://img.shields.io/badge/Data%20Science-2b2b2b?style=flat" />
       </p>
       <p align="center">
-        <a href="https://github.com/kirmanioussema12/Predictive-Modeling-for-Agriculture">View Repo →</a>
+        <a href="https://github.com/kirmanioussema12/Predictive-Modeling-for-Agriculture"> View Repo →</a>
       </p>
     </td>
   </tr>
