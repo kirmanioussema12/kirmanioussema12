@@ -1,6 +1,9 @@
 <!-- =======================
    PROFILE README — Oussema
 ======================== -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+R%26D+Engineer;Building+practical+AI+systems;HAR+%7C+NLP+%7C+CV+%7C+Agentic+AI" />
+</h2>
 
 <h1 align="center">Oussema Kirmani</h1>
 <p align="center">
