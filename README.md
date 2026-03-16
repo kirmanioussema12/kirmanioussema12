@@ -66,7 +66,7 @@
         <a href="https://github.com/kirmanioussema12/Human-Activity-Recognition-Wisdm-Dataset">View Repo →</a>
       </p>
     </td>
----
+
     <td width="33%" valign="top">
       <h3 align="center">🧍 HAR (UCI HAR)</h3>
       <p align="center">Human activity recognition pipeline on UCI HAR dataset.</p>
