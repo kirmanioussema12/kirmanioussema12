@@ -127,6 +127,28 @@
 
 ---
 
+## 📝 Publications
+
+Here are some of my peer-reviewed publications in AI/ML domains.
+
+- **Hybrid CNN-BiLSTM for Skeleton-Based Human Activity Recognition**  
+  Oussema Kirmani, Sazia Mahfuz  
+  *2025 IEEE 16th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)*  
+  [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-006699?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11381195)  
+  <!-- If you have DOI: https://doi.org/10.1109/IEMCON.2025.xxxxxxx -->
+  <!-- Fallback if no direct link: View on Google Scholar → https://scholar.google.com/citations?user=pUqncnMAAAAJ&hl=en -->
+
+<!-- Add more if you have others, e.g.:
+- **Another Paper Title**  
+  Authors...  
+  *Conference/Journal*, Year  
+  [IEEE Xplore / DOI Link] -->
+
+For a full list and citations:  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pUqncnMAAAAJ&hl=en)
+
+---
+
 
 
 ## 📈 Contribution / Activity Graph
