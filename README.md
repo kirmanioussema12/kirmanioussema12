@@ -31,35 +31,14 @@
 ---
 ## 🧰 Tech Stack (AI / R&D)
 <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,jupyter,git,github,docker&perline=20" alt="Primary AI/ML stack" />
-
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,huggingface,aws,gcp,fastapi,postgres,docker,github,git,jupyter&perline=16&size=80" />
 </p>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,postgres&perline=14" alt="Platforms & backend" />
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white" alt="LangChain" />
-
-  &nbsp;&nbsp;
-
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-blue?style=flat" alt="LangGraph" />
-
-  &nbsp;&nbsp;
-
-  <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-orange?style=flat&logo=n8n&logoColor=white" alt="n8n" />
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Focus-R&D%20%7C%20Applied%20ML%20%7C%20NLP%20%7C%20CV%20%7C%20Agentic%20AI-2b2b2b?style=flat&logo=brain&logoColor=cyan" alt="Focus areas" />
-
+<p align="center" style="margin: 12px 0;">
+  <img src="https://img.shields.io/badge/LangChain-1e40af?style=for-the-badge&logo=chainlink&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-0066cc?style=for-the-badge&logo=graph&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-f97316?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ## 🚀 Featured Work
