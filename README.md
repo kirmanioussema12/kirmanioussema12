@@ -112,14 +112,14 @@
     </td>
 ---
     <td width="33%" valign="top">
-      <h3 align="center">🌾 Predictive Modeling (Agriculture)</h3>
-      <p align="center">Predictive modeling + feature insights for agriculture data.</p>
+      <h3 align="center">😊 Happiness Report </h3>
+      <p align="center">Clustering + PCA  + Data insights .</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Predictive%20Modeling-2b2b2b?style=flat" />
         <img src="https://img.shields.io/badge/Data%20Science-2b2b2b?style=flat" />
       </p>
       <p align="center">
-        <a href="https://github.com/kirmanioussema12/Predictive-Modeling-for-Agriculture">View Repo →</a>
+        <a href="https://github.com/kirmanioussema12/Happiness-Report">View Repo →</a>
       </p>
     </td>
   </tr>
