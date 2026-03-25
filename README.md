@@ -44,7 +44,7 @@
 ---
 
 ## 🧠 About Me
-;
+
 ```text
 oussema = {
     "role"       : "Data Scientist  /  R&D Engineer  (ML · NLP · DL)",
@@ -64,7 +64,7 @@ oussema = {
 
 **Core ML / DL**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,fastapi,docker&perline=6" />
 
 <br/>
 
