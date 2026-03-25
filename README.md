@@ -100,14 +100,14 @@
     </td>
 ---
     <td width="33%" valign="top">
-      <h3 align="center">🧬 Medical Disease Classification</h3>
-      <p align="center">ML/DL classification workflow for medical data.</p>
+      <h3 align="center">🌦️ Toronto Weather Prediction</h3>
+      <p align="center">ML Regression and  Time series workflow for Weather/Numerical data.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/NLP%2FML-2b2b2b?style=flat" />
         <img src="https://img.shields.io/badge/Healthcare%20AI-2b2b2b?style=flat" />
       </p>
       <p align="center">
-        <a href="https://github.com/kirmanioussema12/Medical-Disease-Classification">View Repo →</a>
+        <a href="https://github.com/kirmanioussema12/Toronto_Weather_Prediction">View Repo →</a>
       </p>
     </td>
 ---
