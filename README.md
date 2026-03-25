@@ -45,7 +45,7 @@
 
 ## 🧠 About Me
 
-```python
+```text
 oussema = {
     "role"       : "Data Scientist  /  R&D Engineer  (ML · NLP · DL)",
     "focus"      : ["HAR", "NLP", "Computer Vision", "Predictive Modeling", "Agentic AI"],
