@@ -151,14 +151,6 @@ For a full list and citations:
 
 
 
-## 📈 Contribution / Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirmanioussema12&hide_border=true&area=true" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
