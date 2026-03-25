@@ -64,7 +64,7 @@ oussema = {
 
 **Core ML / DL**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,fastapi,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas&perline=6" />
 
 <br/>
 
