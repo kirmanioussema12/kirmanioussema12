@@ -1,240 +1,121 @@
-<!-- ============================================================
-   PROFILE README — Oussema Kirmani | Enhanced & Dynamic
-   ============================================================ -->
-
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Oussema%20Kirmani&fontSize=52&fontColor=00D4FF&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20R%26D%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder&descSize=16&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7f00ff,100:000000&height=220&section=header&text=Oussema%20Kirmani&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Research%20Engineer%20%7C%20AI%20Systems%20Architect&descSize=18&descAlignY=60&animation=fadeIn" />
 
-<!-- ANIMATED TYPING SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&lines=Building+practical+AI+systems+%F0%9F%A4%96;HAR+%7C+NLP+%7C+Computer+Vision+%7C+Agentic+AI;Research+%E2%86%92+Prototype+%E2%86%92+Production;IEEE+Published+Researcher+%F0%9F%93%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=Bridging+the+gap+between+Research+and+Production;Specializing+in+HAR%2C+NLP%2C+and+Agentic+AI;IEEE+Published+Researcher+%E2%80%A2+IEMCON+2025;Building+the+Future+with+PyTorch+%2B+LangGraph" alt="Typing SVG" />
 
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kirmani-oussema-09a164264">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=pUqncnMAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/document/11381195">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-006699?style=for-the-badge&logo=ieee&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/oussemakirmani">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/kirmani-oussema-09a164264">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/oussemakirmani">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://scholar.google.com/citations?user=pUqncnMAAAAJ&hl=en">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://ieeexplore.ieee.org/document/11381195">
-  <img src="https://img.shields.io/badge/IEEE%20Xplore-006699?style=for-the-badge&logo=ieee&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/kirmanioussema12?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kirmanioussema12&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/kirmanioussema12?style=for-the-badge&color=7F00FF&label=FOLLOWERS&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=kirmanioussema12&style=flat-square&color=00D4FF&label=PROFILE+VISITS" />
+<img src="https://img.shields.io/github/followers/kirmanioussema12?style=flat-square&color=7F00FF&label=COMMUNITY" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧬 Engineering Identity
 
-```text
-oussema = {
-    "role"       : "Data Scientist  /  R&D Engineer  (ML · NLP · DL)",
-    "focus"      : ["HAR", "NLP", "Computer Vision", "Predictive Modeling", "Agentic AI"],
-    "philosophy" : "Research-driven engineering — from prototype to production",
-    "published"  : "IEEE IEMCON 2025 — Hybrid CNN-BiLSTM for Skeleton-Based HAR",
-    "open_to"    : ["R&D collaborations", "Research-driven engineering roles"],
-    "currently"  : "Exploring Agentic AI systems with LangGraph + LangChain",
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Core ML / DL**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas&perline=6" />
-
-<br/>
-
-**LLMs & Agentic AI**
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1e40af?style=for-the-badge&logo=chainlink&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-0066cc?style=for-the-badge&logo=graph&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/n8n-f97316?style=for-the-badge&logo=n8n&logoColor=white" />
-
-<br/><br/>
-
-**Infrastructure & Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,fastapi,postgres,git,github,jupyter&perline=8" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
+<table border="0">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/HAR-WISDM-00D4FF?style=for-the-badge" /><br/><br/>
-      <b>🏃 Human Activity Recognition</b><br/>
-      <sub><i>WISDM Dataset</i></sub><br/><br/>
+    <td width="60%" valign="top">
       <p align="left">
-        End-to-end HAR pipeline on accelerometer & gyroscope time-series data.
-        Deep learning models including CNN & LSTM variants trained on the WISDM benchmark.
+        I am a <b>Data Scientist & R&D Engineer</b> dedicated to transforming complex academic research into scalable AI solutions. My work sits at the intersection of <b>Signal Processing (HAR)</b> and <b>Generative Intelligence</b>.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Deep%20Learning-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Time%20Series-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square" />
-      </p>
-      <a href="https://github.com/kirmanioussema12/Human-Activity-Recognition-Wisdm-Dataset">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-      </a>
+      <ul>
+        <li>🔭 <b>Currently:</b> Optimizing <i>Multi-Agent Workflows</i> using LangGraph.</li>
+        <li>🎓 <b>Research:</b> Published at IEEE IEMCON on <i>Hybrid CNN-BiLSTM</i> architectures.</li>
+        <li>💡 <b>Philosophy:</b> Research-driven engineering — Prototype to Production.</li>
+        <li>📫 <b>Reach me:</b> For R&D collaborations or high-impact ML roles.</li>
+      </ul>
     </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/HAR-UCI-7F00FF?style=for-the-badge" /><br/><br/>
-      <b>🧍 Human Activity Recognition</b><br/>
-      <sub><i>UCI HAR Dataset</i></sub><br/><br/>
-      <p align="left">
-        Full ML pipeline on UCI HAR sensor data. Feature engineering from raw signals,
-        classification models, and comparative evaluation across activity classes.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Scikit--Learn-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Feature%20Engineering-2b2b2b?style=flat-square" />
-      </p>
-      <a href="https://github.com/kirmanioussema12/Human-Activity-Recognition-UCI-HAR-Dataset">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/HAR-Skeleton-FF6B6B?style=for-the-badge" /><br/><br/>
-      <b>🦴 Skeleton-Based HAR</b><br/>
-      <sub><i>NTU RGB+D 60</i></sub><br/><br/>
-      <p align="left">
-        Skeleton joint-based activity recognition on NTU RGB+D 60.
-        Backbone of the <b>IEEE-published</b> Hybrid CNN-BiLSTM architecture (IEMCON 2025).
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Computer%20Vision-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/IEEE%20Research-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/CNN--BiLSTM-2b2b2b?style=flat-square" />
-      </p>
-      <a href="https://github.com/kirmanioussema12/Human-Activity-Recognition--NTU-RGB-D-60-Skeleton-Dataset">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Deep%20Learning-Experiments-F97316?style=for-the-badge" /><br/><br/>
-      <b>🧠 Deep Learning</b><br/>
-      <sub><i>Notebooks & Experiments</i></sub><br/><br/>
-      <p align="left">
-        Collection of DL notebooks covering neural network architectures,
-        custom training loops, regularization, and optimization techniques from scratch.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Neural%20Nets-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Training%20Loops-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square" />
-      </p>
-      <a href="https://github.com/kirmanioussema12/Deep-Learning">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/ML-Toronto%20Weather-00BCD4?style=for-the-badge" /><br/><br/>
-      <b>🌦️ Toronto Weather Prediction</b><br/>
-      <sub><i>Time-Series Regression</i></sub><br/><br/>
-      <p align="left">
-        Regression pipeline on 5 years of Toronto climate data. Ridge-regularized
-        Linear Regression via Gradient Descent achieved <b>RMSE 0.016</b> vs
-        Decision Tree baseline of 0.305.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Ridge%20Regression-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Time%20Series-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gradient%20Descent-2b2b2b?style=flat-square" />
-      </p>
-      <a href="https://github.com/kirmanioussema12/Toronto_Weather_Prediction">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Unsupervised-Happiness%20Report-FFD700?style=for-the-badge" /><br/><br/>
-      <b>😊 World Happiness Report</b><br/>
-      <sub><i>Clustering + PCA</i></sub><br/><br/>
-      <p align="left">
-        Unsupervised learning deep-dive on the World Happiness Report dataset.
-        PCA for dimensionality reduction + K-Means / hierarchical clustering for country grouping.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PCA-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/K--Means-2b2b2b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Data%20Science-2b2b2b?style=flat-square" />
-      </p>
-      <a href="https://github.com/kirmanioussema12/Happiness-Report">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-      </a>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirmanioussema12&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
-<sub>
-  🔗 More repos: &nbsp;
-  <a href="https://github.com/kirmanioussema12/NLP">NLP</a> &nbsp;•&nbsp;
-  <a href="https://github.com/kirmanioussema12/NER">Named Entity Recognition</a> &nbsp;•&nbsp;
-  <a href="https://github.com/kirmanioussema12/Systeme-de-recommendation">Recommendation System</a> &nbsp;•&nbsp;
-  <a href="https://github.com/kirmanioussema12/Housing-Price">California Housing Price Prediction</a>
-</sub>
-
-</div>
-
 ---
 
-## 📄 Publications
+## 🛠️ The Research & Production Stack
 
 <div align="center">
 
-| | Paper | Venue | Year |
-|:---:|:---|:---:|:---:|
-| 📘 | **Hybrid CNN-BiLSTM for Skeleton-Based Human Activity Recognition** — *Oussema Kirmani, Sazia Mahfuz* | IEEE IEMCON | 2025 |
+### 🧪 Intelligence Core
+`Python` · `PyTorch` · `TensorFlow` · `Scikit-Learn` · `OpenCV` · `HuggingFace`
 
-<br/>
+### 🤖 Agentic & Generative AI
+`LangChain` · `LangGraph` · `n8n` · `Vector Databases` · `LLMOps`
 
-[![IEEE Xplore](https://img.shields.io/badge/Read%20on%20IEEE%20Xplore-006699?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11381195)
-&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Full%20Publication%20List-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pUqncnMAAAAJ&hl=en)
+### 🏗️ Engineering & Cloud
+`FastAPI` · `Docker` · `AWS` · `GCP` · `PostgreSQL` · `MLflow`
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,hf,fastapi,docker,aws,gcp,postgres,git&perline=12" />
 
 </div>
 
 ---
+
+## 🏆 Featured Research & Projects
+
+<div align="center">
+
+| **Human Activity Recognition** | **Agentic & Advanced AI** |
+| :--- | :--- |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=kirmanioussema12&repo=Human-Activity-Recognition--NTU-RGB-D-60-Skeleton-Dataset&theme=tokyonight" width="400">](https://github.com/kirmanioussema12/Human-Activity-Recognition--NTU-RGB-D-60-Skeleton-Dataset) | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=kirmanioussema12&repo=NLP&theme=tokyonight" width="400">](https://github.com/kirmanioussema12/NLP) |
+| **IEEE Published:** Skeleton-based recognition using Hybrid CNN-BiLSTM. | **NLP Ecosystem:** From Transformer fine-tuning to semantic search. |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=kirmanioussema12&repo=Toronto_Weather_Prediction&theme=tokyonight" width="400">](https://github.com/kirmanioussema12/Toronto_Weather_Prediction) | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=kirmanioussema12&repo=Human-Activity-Recognition-Wisdm-Dataset&theme=tokyonight" width="400">](https://github.com/kirmanioussema12/Human-Activity-Recognition-Wisdm-Dataset) |
+| **Precision Analytics:** Ridge Regression achieving **0.016 RMSE**. | **Time-Series DL:** End-to-end pipeline for mobile sensor data. |
+
+</div>
+
+<p align="center">
+  <b>Explore More:</b> 
+  <code><a href="https://github.com/kirmanioussema12/NER">Named Entity Recognition</a></code> • 
+  <code><a href="https://github.com/kirmanioussema12/Systeme-de-recommendation">RecSys</a></code> • 
+  <code><a href="https://github.com/kirmanioussema12/Housing-Price">Predictive Pricing</a></code>
+</p>
+
+---
+
+## 📊 Impact Metrics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kirmanioussema12&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=kirmanioussema12&theme=tokyonight" />
+  <br/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kirmanioussema12&theme=tokyo-night&area=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 📜 Peer-Reviewed Publications
+
+> **"Hybrid CNN-BiLSTM for Skeleton-Based Human Activity Recognition"**
+> *Oussema Kirmani & Sazia Mahfuz | IEEE IEMCON 2025*
+> [**Access Paper via IEEE Xplore →**](https://ieeexplore.ieee.org/document/11381195)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Interested+in+collaborating%3F;Let%27s+build+the+next+SOTA+system." />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f00ff,100:00d4ff&height=100&section=footer&animation=twinkling" />
+
+</div>
 
 ## 📊 GitHub Stats
 
