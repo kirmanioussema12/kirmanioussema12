@@ -96,7 +96,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kirmanioussema12&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=kirmanioussema12&theme=tokyonight" />
   <br/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kirmanioussema12&theme=tokyo-night&area=true" />
 </div>
 
 ---
@@ -131,7 +130,6 @@
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kirmanioussema12&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
