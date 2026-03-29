@@ -150,9 +150,9 @@ End-to-end pipeline for activity recognition using smartphone accelerometer data
 <details>
 <summary><b>🔍 More Projects</b></summary>
 
-- **[Named Entity Recognition](https://github.com/kirmanioussema12/NER)** - Custom NER models with transformers
+- **[House Buildings Identification](https://github.com/kirmanioussema12/Image-classification)** - CNN /Encoder-Decoder Models for classifying Images
 - **[Recommendation System](https://github.com/kirmanioussema12/Systeme-de-recommendation)** - Collaborative filtering + content-based hybrid
-- **[Housing Price Prediction](https://github.com/kirmanioussema12/Housing-Price)** - Advanced regression with feature engineering
+- **[Housing Price Prediction](https://github.com/kirmanioussema12/Housing-Price)** - Advanced Regression with feature engineering
 
 </details>
 
