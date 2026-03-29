@@ -104,15 +104,15 @@ Advanced skeleton-based HAR using deep hybrid architectures. Published at IEEE I
 </td>
 <td width="50%">
 
-### 🤖 Advanced NLP Ecosystem
-**Transformer Fine-tuning to Production RAG**
+### 🫀 Heart Disease Prediction Pipeline
+**Clinical Data Processing to Predictive Heart Disease Modeling**
 
-End-to-end NLP pipeline: BERT fine-tuning, semantic search, entity recognition, and RAG implementation.
+End-to-end ML pipeline: data preprocessing, feature engineering, model training, evaluation, and prediction system.
 
-**Tech:** Transformers • LangChain • Vector DBs • FastAPI  
-**Impact:** Production-grade semantic retrieval systems
+**Tech:** Python • Scikit-learn • Pandas • Matplotlib
+**Impact:** Accurate heart disease risk prediction using clinical data
 
-[💻 Repository](https://github.com/kirmanioussema12/NLP)
+[💻 Repository](https://github.com/kirmanioussema12/Heart-Disease)
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ End-to-end NLP pipeline: BERT fine-tuning, semantic search, entity recognition, 
 ### 🌤️ Toronto Weather Forecasting
 **Precision Time-Series Modeling**
 
-Ridge regression achieving **RMSE: 0.016** on multi-variate weather prediction.
+Ridge regression achieves **RMSE: 0.016** on multivariate weather prediction.
 
 **Tech:** scikit-learn • Feature Engineering • XGBoost  
 **Impact:** 98%+ prediction accuracy
