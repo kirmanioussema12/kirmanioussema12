@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Oussema%20Kirmani&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc= Research%20Engineer%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20IEEE%20Published%20Researcher&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Oussema%20Kirmani&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Research%20Engineer%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20IEEE%20Published%20Researcher&descAlignY=55&descSize=16" />
 
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Transforming+Research+into+Production-Grade+AI;Specializing+in+HAR+%7C+NLP+%7C+Agentic+Systems;Building+Intelligent+Architectures+at+Scale" alt="Typing SVG" />
