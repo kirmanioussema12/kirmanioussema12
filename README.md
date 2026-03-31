@@ -24,7 +24,7 @@
 
 ## 🎯 About Me
 
-I'm a **Research Engineer** and **AI Systems Architect** bridging the gap between cutting-edge academic research and production-ready machine learning systems. My expertise spans **Human Activity Recognition**, **Natural Language Processing**, and **Agentic AI** — with a track record of publishing peer-reviewed research and deploying scalable AI solutions.
+I'm an **AI Research Engineer** and **Data Scientist** bridging the gap between cutting-edge academic research and production-ready machine learning systems. My expertise spans **Human Activity Recognition**, **Natural Language Processing**, and **Agentic AI** — with a track record of publishing peer-reviewed research and deploying scalable AI solutions.
 ```python
 class OussemaKirmani:
     def __init__(self):
