@@ -11,6 +11,7 @@
   <a href="https://scholar.google.com/citations?user=pUqncnMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
   <a href="https://ieeexplore.ieee.org/document/11381195"><img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
   <a href="https://huggingface.co/kirmanioussema12"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+  <a href ="https://leetcode.com/u/kirmanioussema/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat"></a>
   <a href="https://www.kaggle.com/oussemakirmani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
