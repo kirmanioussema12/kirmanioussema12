@@ -104,6 +104,16 @@ Advanced skeleton-based HAR using deep hybrid architectures. Published at IEEE I
 
 [📄 View Paper](https://ieeexplore.ieee.org/document/11381195) • [💻 Code](https://github.com/kirmanioussema12/Human-Activity-Recognition--NTU-RGB-D-60-Skeleton-Dataset)
 
+### 🤖 Transformer-Based Human Activity Recognition (Procedia Computer Science)
+**Transformer-Based Human Activity Recognition Using Sensor Data**
+
+Lightweight transformer architecture for sensor-based HAR using self-attention mechanisms to capture local and global temporal dependencies from wearable inertial sensors.
+
+**Tech:** Transformers • Self-Attention • PyTorch • Time-Series Analysis • UCI HAR Dataset  
+**Impact:** Achieved 93.69% classification accuracy on the UCI HAR benchmark while maintaining a lightweight architecture with only 169K parameters. :contentReference[oaicite:0]{index=0}
+
+[📄 View Paper](https://www.sciencedirect.com/science/article/pii/S1877050926011269)
+
 </td>
 <td width="50%">
 
