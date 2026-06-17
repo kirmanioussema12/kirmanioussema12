@@ -182,7 +182,7 @@ End-to-end pipeline for activity recognition using smartphone accelerometer data
 | **Title** | **Venue** | **Year** | **Status** | **Link** |
 |:----------|:----------|:---------|:-----------|:---------|
 | Hybrid CNN-BiLSTM for Skeleton-Based Human Activity Recognition | IEEE IEMCON | 2025 | ✅ Published | [IEEE Xplore](https://ieeexplore.ieee.org/document/11381195) |
-
+|Transformer-Based Human Activity Recognition Using Sensor Data   | Procedia Computer Science (Elsevier) | 2026 | ✅ Published | [Elsevier](https://www.sciencedirect.com/science/article/pii/S1877050926011269) |
 </div>
 
 **Research Interests:** Deep Learning for Sequential Data • Multi-Modal Fusion • Agentic AI Systems • Efficient Model Architectures
