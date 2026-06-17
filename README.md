@@ -45,7 +45,7 @@ class OussemaKirmani:
         }
 ```
 
-**🔬 Current Research:** Hybrid CNN-BiLSTM architectures for skeleton-based activity recognition  
+**🔬 Current Research:**  Energy-Efficient Large Language Model Inference — Investigating the Energy Impact of KV-Cache Designs and Attention Mechanisms (MHA, GQA, MQA, and Sliding-Window Attention) during Autoregressive Decoding
 **💼 Open To:** R&D collaborations, ML engineering roles, research partnerships  
 **📍 Location:** Brampton, Ontario, Canada
 
